@@ -3,7 +3,7 @@
 ## Week 1: Data Cleaning and Basic Visualization
 
 ### Submitted By
-- Name: Fawad Khan
+- Name: FAWAD MARWAT
 - Roll No: DS-028
 - Track: Data Science & Analytics
 
