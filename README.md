@@ -98,3 +98,27 @@ streamlit run dashboard.py
 - numpy
 - matplotlib
 - seaborn
+
+# Week 4 – Advanced Data Analysis
+
+## Project Overview
+This project analyzes a retail sales dataset using Python.
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Visualizations
+- Top 10 Products
+- Top Countries Bar Chart
+- Top Countries Pie Chart
+- Unit Price vs Quantity
+- Monthly Sales Trend
+
+## Key Findings
+Business insights were generated based on the analysis.
+
+## Author
+Fawad Marwat
